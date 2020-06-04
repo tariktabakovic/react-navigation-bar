@@ -8,8 +8,8 @@ const toolbar = props => (
             <div className="toolbar_logo"><a href="/">The Logo</a></div>
             <div className="toolbar_navigation-items">
                 <ul>
-                    <li><a href="/"></a>Products</li>
-                    <li><a href="/"></a>Users</li>
+                    <li><a href="/">Products</a></li>
+                    <li><a href="/">Users</a></li>
                 </ul>
             </div>
         </nav>
