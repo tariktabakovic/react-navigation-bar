@@ -6,3 +6,9 @@
     background: #535353;
     height: 56px;
 }
+
+.toolbar_logo a {
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+}
